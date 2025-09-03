@@ -1,6 +1,6 @@
 d dane
 a actor
-n name
+n nice
 s silver
-k knew
+k kick
 
